@@ -1,0 +1,4 @@
+requests
+pymysql==0.9.3
+pandas==1.0.3
+boto3
